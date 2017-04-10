@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="start">Start de quiz!</string>
+    <string name="nameHint">Vul je naam hier in</string>
+    <string name="questions">Vragen</string>
+    <string name="question1">1. In thrash metal, \"The Big Four\" zijn de invloedrijkste bands, buiten Slayer en Metallica, welke twee zijn de andere?</string>
+    <string name="question2">2. Dave Grohl is een getalenteerde muzikant, maar waar staat hij bekend voor?</string>
+    <string name="q2_A">A. Als drummer voor Nirvana.</string>
+    <string name="q2_B">B. Als zanger/gitarist van Foo Fighters.</string>
+    <string name="q2_C">C. Zowel A als B.</string>
+    <string name="q2_D">D. Geen van bovenstaande.</string>
+    <string name="question3">3. Welke band heeft deze beroemde albumhoes?</string>
+    <string name="albumHint">Vul de naam in</string>
+    <string name="question4">4. Wie is de tweede zanger van System of a Down, na Serj Tankian?</string>
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name" translatable="false">Music Quiz</string>
+    <string name="start">Start the quiz!</string>
+    <string name="nameHint">Enter your name here</string>
+    <string name="questions">Questions</string>
+    <string name="question1">1. In thrash metal, \"The Big Four\" are the most influental bands, other than Slayer and Metallica, which are the other two?</string>
+    <string name="q1_band1" translatable="false">Kreator</string>
+    <string name="q1_band2" translatable="false">Megadeth</string>
+    <string name="q1_band3" translatable="false">Anthrax</string>
+    <string name="q1_band4" translatable="false">Nirvana</string>
+    <string name="question2">2. Dave Grohl is a talented musician, but what is he known for?</string>
+    <string name="q2_A">A. Being the drummer for Nirvana.</string>
+    <string name="q2_B">B. Being the singer/guitarist of Foo Fighters.</string>
+    <string name="q2_C">C. Both A and B.</string>
+    <string name="q2_D">D. None of the above.</string>
+    <string name="question3">3. What band has the following famous album cover?</string>
+    <string name="albumHint">Enter the name here</string>
+    <string name="question4">4. Who is the secondary vocalist of System of a Down?</string>
+    <string name="q4_A" translatable="false">Shavo Odadjian</string>
+    <string name="q4_B" translatable="false">John Dolmayan</string>
+    <string name="q4_C" translatable="false">Daron Malakian</string>
+    <string name="score" translatable="false">Score!</string>
+</resources>
