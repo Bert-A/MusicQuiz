@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="start">Start de quiz!</string>
-    <string name="nameHint">Vul je naam hier in</string>
+    <string name="nameHint">Vul je naam in</string>
     <string name="questions">Vragen</string>
     <string name="question1">1. In thrash metal, \"The Big Four\" zijn de invloedrijkste bands, buiten Slayer en Metallica, welke twee zijn de andere?</string>
     <string name="question2">2. Dave Grohl is een getalenteerde muzikant, maar waar staat hij bekend voor?</string>

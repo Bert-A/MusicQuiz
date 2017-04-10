@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name" translatable="false">Music Quiz</string>
     <string name="start">Start the quiz!</string>
-    <string name="nameHint">Enter your name here</string>
+    <string name="nameHint">Enter your name</string>
     <string name="questions">Questions</string>
     <string name="question1">1. In thrash metal, \"The Big Four\" are the most influental bands, other than Slayer and Metallica, which are the other two?</string>
     <string name="q1_band1" translatable="false">Kreator</string>

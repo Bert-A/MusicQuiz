@@ -35,6 +35,7 @@
                 android:id="@+id/name_edit_text"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
+                android:textSize="22sp"
                 android:hint="@string/nameHint"
                 android:inputType="textCapWords"
                 android:imeOptions="actionDone"
@@ -182,7 +183,8 @@
                 android:hint="@string/albumHint"
                 android:inputType="textCapWords"
                 android:imeOptions="actionDone"
-                android:theme="@style/EditTextTheme" />
+                android:theme="@style/EditTextTheme"
+                android:paddingBottom="16dp"/>
 
             <View
                 android:layout_width="match_parent"
